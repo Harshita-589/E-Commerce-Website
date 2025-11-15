@@ -14,6 +14,7 @@ import Payment from "./Components/Payment";
 import Profile from "./Components/Profile";
 import Orders from "./Components/Orders";
 import Error from "./Components/Error";
+import AnalyticsTracker from "./AnalyticsTracker";
 
 const auth = getAuth(app);
 
